@@ -1,1 +1,1 @@
-# spring-boot-ai-chatbo
+# spring-boot-ai-chatbot
